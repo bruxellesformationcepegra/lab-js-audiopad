@@ -16,4 +16,4 @@ Le but est de réaliser une boîte à rythme / sampler en JavaScript en utilisan
 - Pensez à rendre votre code **générique** grâce à l'utilisation d'objets et de fonctions
 - Vous pouvez utiliser la librairie [howler.js](http://goldfirestudios.com/blog/104/howler.js-Modern-Web-Audio-Javascript-Library) pour vous faciliter la prise en main des sons
 
-** Drop the beat !**
+**Drop the beat !**
